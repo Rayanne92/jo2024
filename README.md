@@ -1,3 +1,5 @@
+**JO2024** est une application web qui servira de plateforme centrale pour les organisateurs, les médias et les spectateurs, leur permettant d'accéder aux informations sur les sports, les calendriers des épreuves et les résultats en temps réel.
+
 **Scénario**
 > Votre agence web a été sélectionnée par le comité d'organisation des Jeux Olympiques de Paris 2024 pour développer une application web permettant aux organisateurs, aux médias et aux spectateurs de consulter des informations sur les sports, les calendriers des épreuves et les résultats des JO 2024. Vous et votre équipe avez pour mission de proposer une solution qui répondra à la demande du client.
 
